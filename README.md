@@ -44,4 +44,5 @@ this repository, you can try:
   * To register: [nodeslackers.com](http://www.nodeslackers.com/)
   
 ## Participation
-Want to help others with issues? You can start simply, by answering open questions.
+Want to help others with issues?
+You can start simply, by answering open questions.
